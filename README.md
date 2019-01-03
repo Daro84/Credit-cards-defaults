@@ -31,7 +31,7 @@ default.payment.next.month: Default payment (1=yes, 0=no)
 
 
 Methods used in the analysis:
-- Logistic Regression
 - K Nearest Neighbors
 - Decision Trees
 - Random Forest
+- Support Vector Machines
